@@ -1,0 +1,6 @@
+/client/node_modules 
+/apiGateway/node_modules
+/services/adminService/node_modules
+/services/userService/node_modules
+/services/authService/node_modules
+/models/node_modules
