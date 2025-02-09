@@ -1,0 +1,135 @@
+[
+    {
+      "userId": "64a7b6f4e29f3c001a3b1234",
+      "reportType": "Pest Infestation",
+      "reportDescription": "Noticed a sudden increase in pests damaging the saplings in Sector B.",
+      "reportDate": "2025-02-08T10:30:00Z",
+      "reportStatus": "pending",
+      "reportLocation": "Sector B, Zone 3",
+      "supportingImages": [
+        "https://media.istockphoto.com/id/511976070/photo/green-sprouts.jpg?s=1024x1024&w=is&k=20&c=d4AJsAZGu9mrFF3zWuGCoIBLyz9IHNR_7WD6fTJ_FGo="
+      ]
+    },
+    {
+      "userId": "64b9c5a6e21f7d002c4e5678",
+      "reportType": "Irrigation Issue",
+      "reportDescription": "Drip irrigation system failure in Sector A causing water shortage.",
+      "reportDate": "2025-02-07T15:45:00Z",
+      "reportStatus": "in-progress",
+      "reportLocation": "Sector A, Zone 1",
+      "supportingImages": [
+       "https://media.istockphoto.com/id/511976070/photo/green-sprouts.jpg?s=1024x1024&w=is&k=20&c=d4AJsAZGu9mrFF3zWuGCoIBLyz9IHNR_7WD6fTJ_FGo="
+      ]
+    },
+    {
+      "userId": "64c8d7e5a98f1a003b5f8910",
+      "reportType": "Tree Disease",
+      "reportDescription": "Yellowing leaves and fungal growth observed on several mango trees.",
+      "reportDate": "2025-02-06T09:10:00Z",
+      "reportStatus": "resolved",
+      "reportLocation": "Sector C, Zone 4",
+      "supportingImages": [
+        "https://media.istockphoto.com/id/658291850/photo/young-plant-growing-in-sunlight.webp?s=612x612&w=is&k=20&c=YuB0KTKkth1fZmfYXijtaYOclvy5d2JalupjnAc5H14="
+      ]
+    },
+    {
+      "userId": "64d7e8f6b29f4d004d6f1234",
+      "reportType": "Soil Erosion",
+      "reportDescription": "Significant soil erosion observed after recent heavy rains.",
+      "reportDate": "2025-02-05T11:20:00Z",
+      "reportStatus": "pending",
+      "reportLocation": "Sector D, Zone 2",
+      "supportingImages": [
+      "https://media.istockphoto.com/id/658291850/photo/young-plant-growing-in-sunlight.webp?s=612x612&w=is&k=20&c=YuB0KTKkth1fZmfYXijtaYOclvy5d2JalupjnAc5H14="
+      ]
+    },
+    {
+      "userId": "64e9f7a7c31f5e005e7f6789",
+      "reportType": "Illegal Logging",
+      "reportDescription": "Unauthorized tree cutting detected near the northern boundary.",
+      "reportDate": "2025-02-04T14:35:00Z",
+      "reportStatus": "in-progress",
+      "reportLocation": "Sector E, Zone 5",
+      "supportingImages": [
+     "https://media.istockphoto.com/id/506316644/photo/care-of-new-life-baby-plant.webp?s=612x612&w=is&k=20&c=i1cAoTI7sOFf-G0_Wifp4gHTCFaT9qTx6bW8n1Ecxyo="
+      ]
+    },
+    {
+      "userId": "64f8a9b8d43f6f006f8f8910",
+      "reportType": "Wildlife Encroachment",
+      "reportDescription": "Wild animals spotted damaging crops in the western fields.",
+      "reportDate": "2025-02-03T08:50:00Z",
+      "reportStatus": "resolved",
+      "reportLocation": "Sector F, Zone 6",
+      "supportingImages": [
+        "https://media.istockphoto.com/id/658291850/photo/young-plant-growing-in-sunlight.webp?s=612x612&w=is&k=20&c=YuB0KTKkth1fZmfYXijtaYOclvy5d2JalupjnAc5H14="
+      ]
+    },
+    {
+      "userId": "6509b8c9e54f7g007g9f1234",
+      "reportType": "Fire Outbreak",
+      "reportDescription": "Small fire outbreak near the storage area, promptly controlled.",
+      "reportDate": "2025-02-02T13:15:00Z",
+      "reportStatus": "resolved",
+      "reportLocation": "Sector G, Zone 7",
+      "supportingImages": [
+        "https://www.nps.gov/articles/images/forest-fire.jpg"
+      ]
+    },
+    {
+      "userId": "651ac9d0f65f8h008h0f5678",
+      "reportType": "Nutrient Deficiency",
+      "reportDescription": "Leaves showing signs of nutrient deficiency in several plots.",
+      "reportDate": "2025-02-01T10:05:00Z",
+      "reportStatus": "pending",
+      "reportLocation": "Sector H, Zone 8",
+      "supportingImages": [
+       "https://media.istockphoto.com/id/506316644/photo/care-of-new-life-baby-plant.webp?s=612x612&w=is&k=20&c=i1cAoTI7sOFf-G0_Wifp4gHTCFaT9qTx6bW8n1Ecxyo="
+      ]
+    },
+    {
+      "userId": "652bdae1g76f9i009i1f8910",
+      "reportType": "Unauthorized Access",
+      "reportDescription": "Evidence of unauthorized access found near the eastern fence.",
+      "reportDate": "2025-01-31T16:25:00Z",
+      "reportStatus": "in-progress",
+      "reportLocation": "Sector I, Zone 9",
+      "supportingImages": [
+      "https://media.istockphoto.com/id/506316644/photo/care-of-new-life-baby-plant.webp?s=612x612&w=is&k=20&c=i1cAoTI7sOFf-G0_Wifp4gHTCFaT9qTx6bW8n1Ecxyo="
+      ]
+    },
+    {
+      "userId": "653cebf2h87f0j010j2f1234",
+      "reportType": "Equipment Malfunction",
+      "reportDescription": "Tractor malfunctioned during field operations, needs repair.",
+      "reportDate": "2025-01-30T12:40:00Z",
+      "reportStatus": "pending",
+      "reportLocation": "Sector J, Zone 10",
+      "supportingImages": [
+        "https://media.istockphoto.com/id/506316644/photo/care-of-new-life-baby-plant.webp?s=612x612&w=is&k=20&c=i1cAoTI7sOFf-G0_Wifp4gHTCFaT9qTx6bW8n1Ecxyo="
+      ]
+    },
+    {
+      "userId": "654dfc03i98f1k011k3f5678",
+      "reportType": "Weather Damage",
+      "reportDescription": "Recent storm caused damage to young plants in multiple sectors.",
+      "reportDate": "2025-01-29T09:55:00Z",
+      "reportStatus": "resolved",
+      "reportLocation": "Sector K, Zone 11",
+      "supportingImages": [
+        "https://www.weather.gov/images/crh/wind_damage.jpg"
+      ]
+    },
+    {
+      "userId": "655e0d14j09f2l012l4f8910",
+      "reportType": "Water Contamination",
+      "reportDescription": "Possible contamination detected in irrigation water supply.",
+      "reportDate": "2025-01-28T07:30:00Z",
+      "reportStatus": "in-progress",
+      "reportLocation": "Sector L, Zone 12",
+      "supportingImages": [
+        "https://media.istockphoto.com/id/511976070/photo/green-sprouts.jpg?s=1024x1024&w=is&k=20&c=d4AJsAZGu9mrFF3zWuGCoIBLyz9IHNR_7WD6fTJ_FGo="
+      ]
+    }
+  ]
+  
